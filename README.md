@@ -1,29 +1,22 @@
-## Your Name
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+## Artemis Xenaki
+-
+I am an experienced Civil Engineer looking to turn my passion for software development into a career. Through my 13 years background in civil engineering I have developed excellent problem solving and analytical skills.
+I am currently learning to code at Makers Academy, through an intensive 16-week software development bootcamp.
+As an individual, I am very positive towards new challenges and responsibilities and my career intentions are to be involved in Software Development roles.
 
 ## Skills
 
-#### This Skill
+#### Attention to detail
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Working under pressure
 
-- Experience
-- Achievements
-- Evidence
+#### Analytical thinker
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Fast learner
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 2017 - September 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +25,26 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### National Technical University of Athens (May 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MEng Civil Engineering
+- Department of Transportation Planning and Engineering
+
+#### Technological Education Institute of Piraeus (February 2004)
+
+- BSc Civil Engineering
+
+#### Any other qualifications
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Self employed** (2015 - 2016)    
+*Civil Engineer*
+
+**Hellinotechniki S.A.** (2003 - 2015)    
+*Civil Engineer*  
+
+**Andronikos Tsigkounis architectural office** (2002 - 2003)   
+*Assistant Civil Engineer*  
