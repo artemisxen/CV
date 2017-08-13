@@ -2,7 +2,7 @@
 
 I am an experienced Civil Engineer looking to turn my passion for software development into a career. Through my 13 years background in civil engineering I have developed excellent problem solving and analytical skills.
 
-I am currently learning to code at Makers Academy, through an intensive 16-week software development bootcamp.
+I am currently learning to code at Makers Academy, through an intensive 12-week software development bootcamp.
 
 As an individual, I am very positive towards new challenges and responsibilities and my career intentions are to be involved in Software Development roles.
 
