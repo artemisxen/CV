@@ -1,8 +1,8 @@
 ## Artemis Xenaki
-[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience)
 
 I am a London based Junior Full Stack Developer,
-passionate about problem solving, learning new technologies and best coding practices. My curiosity and my passion on understanding how things work led me to study at [Makes Academy](http://www.makersacademy.com/) where apart from learning coding, we focused on agile techniques, pair programming, and test driven development.  
+passionate about problem solving, learning new technologies and best coding practices. My curiosity and my passion on understanding how things work led me to study at [Makers Academy](http://www.makersacademy.com/) where apart from learning coding, we focused on agile techniques, pair programming, and test driven development.  
 
 Through my civil engineering background I have developed excellent problem solving and analytical skills, and working in high demanding environment increased my ability to work under pressure and with attention to detail.  
 
