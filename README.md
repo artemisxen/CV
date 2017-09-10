@@ -12,8 +12,8 @@ I am excited about new challenges and responsibilities and I am looking for a ro
 ## Projects
 Project title | Description | Development timeframe | Technologies| Testing | Link
 --------------|-------------|-----------------------|--------------|---------|-----
-[MakersBnB](https://github.com/artemisxen/makersbnb)| An Airbnb clone | 5 days | Node.js, Express, PostgreSQL| Mocha, Chai, Zombie.js|
-[Live Departure Board](https://github.com/artemisxen/react-departure-board)| A departure board with live updates using Transport API | 4 days | Node.js, Express, React.js | | [Heroku Link](http://live-departures.herokuapp.com/)
+[MakersBnB](https://github.com/artemisxen/makersbnb)| An Airbnb clone | 5 days | Node.js, Express.js, PostgreSQL| Mocha, Chai, Zombie.js|
+[Live Departure Board](https://github.com/artemisxen/react-departure-board)| A departure board with live updates using Transport API | 4 days | Node.js, Express.js, React.js | | [Heroku Link](http://live-departures.herokuapp.com/)
 [Instagram](https://github.com/artemisxen/instagram-challenge)| An Instagram clone | 2 days | Ruby, Ruby on Rails, PostgreSQL | Rspec, Capybara|
 [Chitter](https://github.com/artemisxen/chitter-challenge)| A Twitter clone | 1 days | Ruby, Sinatra, PostgreSQL | Rspec, Capybara| [Heroku Link](https://art-chitter.herokuapp.com/)
 
@@ -37,8 +37,9 @@ I have worked in teams of all sizes, either in my professional or educational li
 
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js
-- Rspec, Jasmine, Mocha
+- Ruby, Ruby on Rails, Javascript, Node.js, Express.js, React.js
+- Rspec, Capybara, Jasmine, Mocha, Chai, Zombie.js
+- PostgreSQL, DataMapper, Sequelize
 - Agile methodologies and XP values
 
 #### National Technical University of Athens (May 2013)
@@ -58,7 +59,7 @@ Design, implementation and supervision of small scale private construction proje
 
 **Hellinotechniki S.A.** (2003 - 2015)    
 *Civil Engineer*  
-Member of the Design and Project Management Team for the construction of several projects like Museums and Concert Halls.  
+Member of the Design and Project Management Team for the construction of several projects like the [National Museum of Contemporary Art of Athens](http://www.emst.gr/en/) and [Athens Concert Hall](http://www.ellinotexniki.com/cultural-facilities/athens-concert-hall-phase-ii).  
 Main responsibilities:
 * Supervision and control of Architectural and Civil Engineering Studies
 * On-site supervision of the works
