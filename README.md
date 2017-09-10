@@ -59,7 +59,7 @@ Design, implementation and supervision of small scale private construction proje
 
 **Hellinotechniki S.A.** (2003 - 2015)    
 *Civil Engineer*  
-Member of the Design and Project Management Team for the construction of several projects like the [National Museum of Contemporary Art of Athens](http://www.emst.gr/en/) and [Athens Concert Hall](http://www.ellinotexniki.com/cultural-facilities/athens-concert-hall-phase-ii).  
+Member of the Design and Project Management Team for the construction of several projects like the [National Museum of Contemporary Art of Greece](http://www.emst.gr/en/) and [Athens Concert Hall of Greece](http://www.ellinotexniki.com/cultural-facilities/athens-concert-hall-phase-ii).  
 Main responsibilities:
 * Supervision and control of Architectural and Civil Engineering Studies
 * On-site supervision of the works
