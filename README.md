@@ -2,7 +2,7 @@
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience)
 
 I am a London based Junior Full Stack Developer,
-passionate about problem solving, learning new technologies and best coding practices. My curiosity and my passion on understanding how things work led me to study at [Makers Academy](http://www.makersacademy.com/) where apart from learning coding, we focused on agile techniques, pair programming, and test driven development.  
+passionate about problem solving, learning new technologies and best coding practices. My curiosity and my passion on understanding how things work led me to study at [Makers Academy](http://www.makersacademy.com/) where apart from learning coding, we focused on object oriented programming, agile techniques, pair programming, and test driven development.  
 
 Through my civil engineering background I have developed excellent problem solving and analytical skills, and working in high demanding environment increased my ability to work under pressure and with attention to detail.  
 
@@ -20,7 +20,7 @@ Project title | Description | Development timeframe | Technologies| Testing | Li
 ## Skills
 
 #### Analytical thinker
-Working for over a decade as civil engineer enhanced my analytical skills and my ability of problem solving by breaking every problem into small parts and using logical steps to understand an issue from all angles before executing an action.
+Working for over a decade as civil engineer enhanced my analytical skills and my ability of problem solving by breaking every problem into small parts and using logical steps to understand an issue from all angles before performing an action.
 
 #### Working under pressure
 As a member of a project management team in construction I had to deal with deadlines and working efficiently under pressure, even in more than one projects at the same time. From this experience I realised that I tend to thrive under pressure because it forces me to focus on what I’m doing, assess my priorities, and come up with a plan.
@@ -37,9 +37,10 @@ I have worked in teams of all sizes, either in my professional or educational li
 
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Ruby on Rails, Javascript, Node.js, Express.js, React.js
+- Ruby, Ruby on Rails, Javascript, jQuery, Node.js, Express.js, React.js
 - Rspec, Capybara, Jasmine, Mocha, Chai, Zombie.js
 - PostgreSQL, DataMapper, Sequelize
+- HTML/CSS
 - Agile methodologies and XP values
 
 #### National Technical University of Athens (May 2013)
@@ -55,18 +56,18 @@ I have worked in teams of all sizes, either in my professional or educational li
 
 **Self employed** (2015 - 2016)    
 *Civil Engineer*  
-Design, implementation and supervision of small scale private construction projects in Greece.
+Design, implementation and supervision of construction projects in Greece.
 
 **Hellinotechniki S.A.** (2003 - 2015)    
 *Civil Engineer*  
-Member of the Design and Project Management Team for the construction of several projects like the [National Museum of Contemporary Art of Greece](http://www.emst.gr/en/) and [Athens Concert Hall of Greece](http://www.ellinotexniki.com/cultural-facilities/athens-concert-hall-phase-ii).  
+Member of the Design and Project Management Team for the construction of several projects like the [National Museum of Contemporary Art of Greece](http://www.emst.gr/en/) and [Athens Concert Hall in Greece](http://www.ellinotexniki.com/cultural-facilities/athens-concert-hall-phase-ii).  
 Main responsibilities:
 * Supervision and control of Architectural and Civil Engineering Studies
 * On-site supervision of the works
 * Preparation and Implementation of scheduling and financial plan
 * Composition of estimation of quantities and budgeting
 * Checking monthly financial reports and technical drawings for accuracy of calculations
-* Auditing of project’s bills
+* Auditing project’s bills
 * Contract management
 
 **Andronikos Tsigkounis architectural office** (2002 - 2003)   
