@@ -1,31 +1,45 @@
 ## Artemis Xenaki
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
-I am an experienced Civil Engineer looking to turn my passion for software development into a career. Through my 13 years background in civil engineering I have developed excellent problem solving and analytical skills.
+I am a London based Junior Full Stack Developer,
+passionate about problem solving, learning new technologies and best coding practices. My curiosity and my passion on understanding how things work led me to study at [Makes Academy](http://www.makersacademy.com/) where apart from learning coding, we focused on agile techniques, pair programming, and test driven development.  
 
-I am currently learning to code at Makers Academy, through an intensive 12-week software development bootcamp.
+Through my civil engineering background I have developed excellent problem solving and analytical skills, and working in high demanding environment increased my ability to work under pressure and with attention to detail.  
 
-As an individual, I am very positive towards new challenges and responsibilities and my career intentions are to be involved in Software Development roles.
+I am excited about new challenges and responsibilities and I am looking for a role as a Junior Full Stack Developer.
+
+
+## Projects
+Project title | Description | Development timeframe | Technologies| Testing | Link
+--------------|-------------|-----------------------|--------------|---------|-----
+[MakersBnB](https://github.com/artemisxen/makersbnb)| An Airbnb clone | 5 days | Node.js, Express, PostgreSQL| Mocha, Chai, Zombie.js|
+[Live Departure Board](https://github.com/artemisxen/react-departure-board)| A departure board with live updates using Transport API | 4 days | Node.js, Express, React.js | | [Heroku Link](http://live-departures.herokuapp.com/)
+[Instagram](https://github.com/artemisxen/instagram-challenge)| An Instagram clone | 2 days | Ruby, Ruby on Rails, PostgreSQL | Rspec, Capybara|
+[Chitter](https://github.com/artemisxen/chitter-challenge)| A Twitter clone | 1 days | Ruby, Sinatra, PostgreSQL | Rspec, Capybara| [Heroku Link](https://art-chitter.herokuapp.com/)
 
 ## Skills
 
-#### Attention to detail
+#### Analytical thinker
+Working for over a decade as civil engineer enhanced my analytical skills and my ability of problem solving by breaking every problem into small parts and using logical steps to understand an issue from all angles before executing an action.
 
 #### Working under pressure
+As a member of a project management team in construction I had to deal with deadlines and working efficiently under pressure, even in more than one projects at the same time. From this experience I realised that I tend to thrive under pressure because it forces me to focus on what I’m doing, assess my priorities, and come up with a plan.
 
-#### Analytical thinker
+#### Attention to detail
+In my previous job as civil engineer, where my responsibilities included checking financial reports and technical drawings for accuracy of calculations, it was important to pay attention to details, which turned to be a helpful skill during studying at Makers Academy for debugging and learning new technologies.
 
-#### Fast learner
+#### Teamwork
+I have worked in teams of all sizes, either in my professional or educational life. Pair programming in daily basis and working in project groups is part of Makers Academy learning approach, which improved my ability to collaborate and communicate better within a team.
 
 ## Education
 
 #### Makers Academy (July 2017 - September 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Ruby, Rails, Javascript, Node.js
 - Rspec, Jasmine, Mocha
+- Agile methodologies and XP values
 
 #### National Technical University of Athens (May 2013)
 
@@ -39,10 +53,21 @@ As an individual, I am very positive towards new challenges and responsibilities
 ## Experience
 
 **Self employed** (2015 - 2016)    
-*Civil Engineer*
+*Civil Engineer*  
+Design, implementation and supervision of small scale private construction projects in Greece.
 
 **Hellinotechniki S.A.** (2003 - 2015)    
 *Civil Engineer*  
+Member of the Design and Project Management Team for the construction of several projects like Museums and Concert Halls.  
+Main responsibilities:
+* Supervision and control of Architectural and Civil Engineering Studies
+* On-site supervision of the works
+* Preparation and Implementation of scheduling and financial plan
+* Composition of estimation of quantities and budgeting
+* Checking monthly financial reports and technical drawings for accuracy of calculations
+* Auditing of project’s bills
+* Contract management
 
 **Andronikos Tsigkounis architectural office** (2002 - 2003)   
 *Assistant Civil Engineer*  
+Design of traditional residences
