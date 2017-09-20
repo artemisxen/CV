@@ -2,7 +2,7 @@
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience)
 
 I am a London based Junior Full Stack Developer,
-passionate about problem solving, learning new technologies and best coding practices. My curiosity and my passion on understanding how things work led me to study at [Makers Academy](http://www.makersacademy.com/) where apart from learning coding, we focused on object oriented programming, agile techniques, pair programming, and test driven development.  
+passionate about problem solving, learning new technologies and best coding practices. My curiosity and my passion on understanding how things work led me to study at [Makers Academy](http://www.makersacademy.com/) where apart from learning coding, we focused on object oriented design, agile techniques, pair programming, and test driven development.  
 
 Through my civil engineering background I have developed excellent problem solving and analytical skills, and working in high demanding environment increased my ability to work under pressure and with attention to detail.  
 
@@ -12,10 +12,9 @@ I am excited about new challenges and responsibilities and I am looking for a ro
 ## Projects
 Project title | Description | Development timeframe | Technologies| Testing | Link
 --------------|-------------|-----------------------|--------------|---------|-----
-[MakersBnB](https://github.com/artemisxen/makersbnb)| An Airbnb clone | 5 days | Node.js, Express.js, PostgreSQL| Mocha, Chai, Zombie.js|
 [Live Departure Board](https://github.com/artemisxen/react-departure-board)| A departure board with live updates using Transport API | 4 days | Node.js, Express.js, React.js | | [Heroku Link](http://live-departures.herokuapp.com/)
-[Instagram](https://github.com/artemisxen/instagram-challenge)| An Instagram clone | 2 days | Ruby, Ruby on Rails, PostgreSQL | Rspec, Capybara|
-[Chitter](https://github.com/artemisxen/chitter-challenge)| A Twitter clone | 1 days | Ruby, Sinatra, PostgreSQL | Rspec, Capybara| [Heroku Link](https://art-chitter.herokuapp.com/)
+[Chitter](https://github.com/artemisxen/chitter-challenge)| A Twitter clone | 2 days | Ruby, Sinatra, PostgreSQL | Rspec, Capybara| [Heroku Link](https://art-chitter.herokuapp.com/)
+[Rock Paper Scissors](https://github.com/artemisxen/rps-challenge) | Rock Paper Scissors game in web version | 2 days | Ruby, Sinatra | Rspec, Capybara |
 
 ## Skills
 
