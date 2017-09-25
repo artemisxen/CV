@@ -12,6 +12,7 @@ I am excited about new challenges and responsibilities and I am looking for a ro
 ## Projects
 Project title | Description | Development timeframe | Technologies| Testing | Link
 --------------|-------------|-----------------------|--------------|---------|-----
+[Sqrl](https://github.com/artemisxen/sqrl) | A mobile app for bookmarking places of interest | 10 days | React Native, Native Base, Firebase | Jest, Cavy |
 [Live Departure Board](https://github.com/artemisxen/react-departure-board)| A departure board with live updates using Transport API | 4 days | Node.js, Express.js, React.js | | [Heroku Link](http://live-departures.herokuapp.com/)
 [Chitter](https://github.com/artemisxen/chitter-challenge)| A Twitter clone | 2 days | Ruby, Sinatra, PostgreSQL | Rspec, Capybara| [Heroku Link](https://art-chitter.herokuapp.com/)
 [Rock Paper Scissors](https://github.com/artemisxen/rps-challenge) | Rock Paper Scissors game in web version | 2 days | Ruby, Sinatra | Rspec, Capybara |
@@ -34,11 +35,10 @@ I have worked in teams of all sizes, either in my professional or educational li
 
 #### Makers Academy (July 2017 - September 2017)
 
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Ruby on Rails, Javascript, jQuery, Node.js, Express.js, React.js
-- Rspec, Capybara, Jasmine, Mocha, Chai, Zombie.js
-- PostgreSQL, DataMapper, Sequelize
+- OOP, TDD, SOLID, MVC
+- Ruby, Ruby on Rails, Javascript, jQuery, Node.js, Express.js, React.js, React Native
+- Rspec, Capybara, Jasmine, Mocha, Chai, Zombie.js, Cavy
+- PostgreSQL, DataMapper, Sequelize, Firebase
 - HTML/CSS
 - Agile methodologies and XP values
 
